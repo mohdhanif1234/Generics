@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace AssigmentDay13
 {
-    class MaxOfThreeIntegers
+    class MaxOfThreeDecimals
     {
-        // UC-1 To find the maximum number out of the three integers
-        public static void FindMaxInteger(int first, int second, int third)
+        // UC-2 To find the maximum decimal number out of the three decimal numbers
+        public static void FindMaxDecimal(double first, double second, double third)
         {
             if (first.CompareTo(second) > 0 && first.CompareTo(third) > 0)
             {

@@ -10,7 +10,7 @@ namespace AssigmentDay13
     {
         static void Main(string[] args) 
         { 
-            MaxOfThreeIntegers.FindMaxInteger(11, 22, 33); 
+            MaxOfThreeDecimals.FindMaxDecimal(11.25, 22.89, 33.65); 
         }
     }
 }

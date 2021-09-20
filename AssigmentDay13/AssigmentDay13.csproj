@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Generics.cs" />
-    <Compile Include="MaxOfThreeIntegers.cs" />
+    <Compile Include="MaxOfThreeStrings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

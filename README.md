@@ -1,2 +1,2 @@
 # Generics
-# This user case contains a program to find out the maximum number out of the three decimal numbers.
+# This user case contains a program to find out the maximum string value out the three string values.

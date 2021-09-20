@@ -10,7 +10,7 @@ namespace AssigmentDay13
     {
         static void Main(string[] args) 
         { 
-            MaxOfThreeDecimals.FindMaxDecimal(11.25, 22.89, 33.65); 
+            MaxOfThreeStrings.FindMaxString("Apple", "Peach", "Banana"); 
         }
     }
 }

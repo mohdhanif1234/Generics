@@ -1,2 +1,2 @@
 # Generics
-# This repository contains the use cases mentioned in the Generics assignment.
+# This user case contains a program to find out the maximum number out of the three integers.

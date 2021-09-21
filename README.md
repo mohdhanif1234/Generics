@@ -1,2 +1,2 @@
 # Generics
-# This user case contains a program to find out the maximum string value out the three string values.
+# This is a refactor code to print the maximum integer, decimal and string values out of the given values using the concept of Generic method.

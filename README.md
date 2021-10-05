@@ -1,2 +1,2 @@
 # Generics
-# This is a refactor code to print the maximum integer, decimal and string values out of the given values using the concept of Generic method.
+# This is a program to print the maximum value using sorting and generics concept to take more than 3 parameters.
